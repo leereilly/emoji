@@ -2,6 +2,8 @@ Emoji (絵文字?) is the Japanese term for the picture characters or emoticons 
 
 To include an emoji inline simply wrap it's name in colons e.g. writing `:thumbsup:` will display a :thumbsup:
 
+Have fun! :tada:
+
 [![Endorse Lee](http://api.coderwall.com/mdeiters/endorsecount.png)](http://coderwall.com/leereilly)
 
 or buy me a :beer:
