@@ -6,6 +6,4 @@ You can see all the emoji that GitHub supports above :point_up:
 
 Have fun! :tada:
 
-[![Endorse Lee](http://api.coderwall.com/mdeiters/endorsecount.png)](http://coderwall.com/leereilly)
-
-or buy me a [:beer:](http://en.wikipedia.org/wiki/Beerware)
+**See also:** the [Emoji Searcher](http://emoji.muan.co/) and the [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :sparkles:
